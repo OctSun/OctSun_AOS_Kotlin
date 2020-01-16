@@ -1,4 +1,4 @@
-## Histoy
+## History
 
 * 2020-01-16 : Splash 화면 생성
 
